@@ -243,7 +243,7 @@ def get_logger(
         
         if file_level is None:
             env_file = env_config['file_level']
-            final_file_level = env_file if isinstance(env_file, int) else logging.DEBUG
+            final_file_level = env_file if isinstance(env_file, int) else logging.INFO
         else:
             final_file_level = file_level
     
