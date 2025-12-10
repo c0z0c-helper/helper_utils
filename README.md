@@ -8,10 +8,10 @@ Python 개발 시 자주 사용하는 유틸리티 모음 라이브러리
 
 ## 주요 기능
 
-- **🔍 helper_logger**: 로깅 유틸리티 (콘솔/파일 핸들러, 환경변수 기반 설정, KST 타임존)
-- **📊 helper_pandas**: Pandas 확장 기능 (한글 컬럼 설명, 데이터 출력, HTML/콘솔 지원)
-- **🌲 helper_utils_print**: 출력 유틸리티 (디렉토리/JSON/딕셔너리 트리 구조 출력)
-- **📁 helper_utils_colab**: 경로 관리 유틸리티 (로컬/Colab 환경 경로 자동 탐색)
+- **helper_logger**: 로깅 유틸리티 (콘솔/파일 핸들러, 환경변수 기반 설정, KST 타임존)
+- **helper_pandas**: Pandas 확장 기능 (한글 컬럼 설명, 데이터 출력, HTML/콘솔 지원)
+- **helper_utils_print**: 출력 유틸리티 (디렉토리/JSON/딕셔너리 트리 구조 출력)
+- **helper_utils_colab**: 경로 관리 유틸리티 (로컬/Colab 환경 경로 자동 탐색)
 
 ## 설치
 
