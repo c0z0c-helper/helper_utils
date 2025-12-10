@@ -16,7 +16,7 @@ from pathlib import Path
 
 def clean_build():
     """빌드 디렉토리 정리"""
-    print("🧹 빌드 디렉토리 정리 중...")
+    print("빌드 디렉토리 정리 중...")
     dirs_to_clean = ["build", "dist", "*.egg-info"]
     for pattern in dirs_to_clean:
         for path in Path(".").glob(pattern):
